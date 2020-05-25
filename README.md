@@ -1,1 +1,1 @@
-# netlyfiCMS-blog
+# netlifyCMS-blog
